@@ -23,11 +23,11 @@
 控制台打印：
 
 注解 value：queryByUid
->>>>>>>>>>>>queryByUid的返回参数是：com.hongyan.study.annotation.entity.DingPushH5DO
->>>>>>>>>>>>queryByUid的返回值类型不是参数化类型其类型为：com.hongyan.study.annotation.entity.DingPushH5DO
->>>>>>>>>>>>需要被替换的参数为:[uid]
->>>>>>>>>>>>转换后的数据为:[SELECT pk_id as pkId , uid, job_no as jobNo, store, qr_code as qrCode, url, detail, is_read as isRead, create_date as createDate, update_date as updateDate, type, status,type, response FROM ding_push_h5 WHERE uid='6ec73006828e4d80b867b34f2c956913']
-hahahah>>>>>DingPushH5DO(pkId=66, uid=6ec73006828e4d80b867b34f2c956913, jobNo=20000022, store=人力资源本部, qrCode=https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vce898ad074cd3ebb9, url=https://www.baidu.com?jobNo=20000022, detail={\"alias\":\"\",\"avatar\":\"\",\"department\":[50000510],\"email\":\"\",\"enable\":1,\"extattr\":{\"attrs\":[]},\"gender\":\"0\",\"hide_mobile\":0,\"is_leader_in_dept\":[0],\"isleader\":0,\"main_department\":50000510,\"mobile\":\"15902748812\",\"name\":\"肖\",\"order\":[0],\"position\":\"房县步行街店店长\",\"qr_code\":\"https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vce898ad074cd3ebb9\",\"status\":4,\"telephone\":\"\",\"thumb_avatar\":\"\",\"userid\":\"20000022\"}, isRead=0, createDate=2020-07-28 19:07:29.0, updateDate=2020-07-28 19:07:28.0, type=1, status=1, response={\"code\":200,\"cost\":0,\"data\":{\"errcode\":0,\"request_id\":\"10iy2iq4zumoa\",\"task_id\":238543235127},\"msg\":\"success\"})
+ >>>>>>>>>>>>queryByUid的返回参数是：com.hongyan.study.annotation.entity.DingPushH5DO
+ >>>>>>>>>>>>queryByUid的返回值类型不是参数化类型其类型为：com.hongyan.study.annotation.entity.DingPushH5DO
+ >>>>>>>>>>>>需要被替换的参数为:[uid]
+ >>>>>>>>>>>>转换后的数据为:[SELECT pk_id as pkId , uid, job_no as jobNo, store, qr_code as qrCode, url, detail, is_read as isRead, create_date as createDate, update_date as updateDate, type, status,type, response FROM ding_push_h5 WHERE uid='6ec73006828e4d80b867b34f2c956913']
+ hahahah>>>>>DingPushH5DO(pkId=66, uid=6ec73006828e4d80b867b34f2c956913, jobNo=20000022, store=人力资源本部, qrCode=https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vce898ad074cd3ebb9, url=https://www.baidu.com?jobNo=20000022, detail={\"alias\":\"\",\"avatar\":\"\",\"department\":[50000510],\"email\":\"\",\"enable\":1,\"extattr\":{\"attrs\":[]},\"gender\":\"0\",\"hide_mobile\":0,\"is_leader_in_dept\":[0],\"isleader\":0,\"main_department\":50000510,\"mobile\":\"15902748812\",\"name\":\"肖\",\"order\":[0],\"position\":\"房县步行街店店长\",\"qr_code\":\"https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vce898ad074cd3ebb9\",\"status\":4,\"telephone\":\"\",\"thumb_avatar\":\"\",\"userid\":\"20000022\"}, isRead=0, createDate=2020-07-28 19:07:29.0, updateDate=2020-07-28 19:07:28.0, type=1, status=1, response={\"code\":200,\"cost\":0,\"data\":{\"errcode\":0,\"request_id\":\"10iy2iq4zumoa\",\"task_id\":238543235127},\"msg\":\"success\"})
 
 
 
